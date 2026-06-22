@@ -2,6 +2,8 @@
 
 我是 PoTaTo, AI 爱好者与开源贡献者, 目前在 **Nanjing University of Information Science and Technology (NUIST)** 读大三。
 
+同时作为 **腾讯青云计划 (Tencent Project UP)** 的实习生，从事一些研究工作。
+
 主要研究领域包括 **语音合成/理解, 文本大模型后训练, (二次元)图像生成, 超分辨率, AI气象预测** 等。
 
 关于我的学术研究以及工业界项目, 请移步 [Github Personal Page](https://potato-mika.github.io/) 获取更多信息。
